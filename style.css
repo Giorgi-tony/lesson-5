@@ -9,9 +9,99 @@ a{
 	margin: 0;
 	padding: 0;
 }
+main{
+	background-color: #FFFFFF;
+	margin-left: 180px;
+}
 h2{
 	color: #000000;
 	font-size: 25px;
 	line-height: 30px;
 }
-
+.block1{
+	display: inline-block;
+}
+.block2{
+	display: inline-block;
+}
+.first-paragraph{
+	margin-top: 30px;
+	color: #434343;
+	font-size: 25px;
+	line-height: 44px;
+	height: 169px;
+	width: 1079px;
+}
+.primary-h3{
+	margin-top: 150px;
+	color: #000000;
+	font-size: 25px;
+	line-height: 33.3px;
+}
+.first-article{
+	height: 126px;
+	width: 438px;
+	display: inline-block;
+	margin-top: 30px;
+	color: #434343;
+	font-size: 18px;
+	line-height: 33.3px;
+	vertical-align: middle;
+}
+.word-impact{
+	color: #434343;
+	font-size: 26px;
+	line-height: 33.3px;
+}
+.second-article{
+	margin-top: 30px;
+	margin-left: 90px;
+	height: 126px;
+	width: 438px;
+	display: inline-block;
+	color: #434343;
+	font-size: 18px;
+	line-height: 33.3px;
+	vertical-align: middle;
+}
+.secondary-h3{
+	margin-top: 60px;
+	color: #000000;
+	font-size: 25px;
+	line-height: 33.3px;
+}
+.third-artcile{
+	margin-top: 30px;
+	height: 126px;
+	width: 438px;
+	display: inline-block;
+	color: #434343;
+	font-size: 18px;
+	line-height: 33.3px;
+	vertical-align: middle;
+}
+.fourth-article{
+	margin-top: 30px;
+	margin-left: 90px;
+	height: 126px;
+	width: 438px;
+	display: inline-block;
+	color: #434343;
+	font-size: 18px;
+	line-height: 33.3px;
+	vertical-align: middle;
+}
+h4{
+	margin-top: 181px;
+	color: #000000;
+	font-size: 25px;
+	line-height: 33.3px;
+}
+.second-paragraph{
+	margin-top: 60px;
+	color: #262626;
+	font-size: 18px;
+	line-height: 33.3px;
+	height: 326px;
+	width: 794px;
+}
